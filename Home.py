@@ -3,7 +3,6 @@ import streamlit as st
 from streamlit_lottie import st_lottie
 from PIL import Image
 
-
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="Energy level of electron", page_icon="🕴️", layout="wide")
 
